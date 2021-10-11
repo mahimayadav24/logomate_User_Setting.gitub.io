@@ -37,6 +37,7 @@ body, html {
     position: fixed;
     z-index: 9999;
     background-color: #274EC9;
+    margin: 0 0 0 -12px;
 }
 
 .column__brand__one {
